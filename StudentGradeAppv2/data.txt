@@ -1,0 +1,4 @@
+Student Piet heeft cijfer: 3
+Student Klaas heeft cijfer: 7
+Student Achmed heeft cijfer: 10
+Student Paulien heeft cijfer: 7
